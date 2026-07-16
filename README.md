@@ -214,7 +214,9 @@ https://linkedin.com/in/abinayaravi17
 </p>
 
 ---
-
+<a href="https://www.instagram.com/designsofabinaya/">
+<img src="https://img.shields.io/badge/UI%2FUX%20Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 <h3 align="center">
 
 💜 "Design meaningful experiences. Build impactful technology."
